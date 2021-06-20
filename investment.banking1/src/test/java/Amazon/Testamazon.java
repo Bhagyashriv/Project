@@ -56,10 +56,10 @@ public class Testamazon {
 		
 		
 	}
-//		catch(NoSuchElementException e)
-//		{
-//			System.out.println("Not working");
-//		}
+		catch(NoSuchElementException e)
+		{
+			System.out.println("Not working");
+		}
 	
 	@Test(enabled=false)
 	public void verifysite() {
